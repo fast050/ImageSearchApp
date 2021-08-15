@@ -5,8 +5,9 @@ Simple App That Seach Images on Unsplash API.
 - Search any Photos by Users.
 
 # How To Use
-To Use the app you need a developer account [Unsplash developer account](https://unsplash.com/documentation#creating-a-developer-account) then get your key:  
-adjust UnsplashPhotoServices interface in the  @Headers( ...,"Authorization: your_key"
+To Use the app you need a developer account [Unsplash developer account](https://unsplash.com/documentation#creating-a-developer-account) then get your key:
+in the project :
+paste your key in UnsplashPhotoServices interface @Headers( ...,"Authorization: your_key"
 
 # Third Party 
 - Retrofit
