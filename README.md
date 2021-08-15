@@ -15,6 +15,7 @@ Authorization: Client-ID YOUR_ACCESS_KEY
 - Navigation component
 - Paging3
 - view Binding
+- Shimmer Effect
 
 # Rest Api Websites
 https://unsplash.com/documentation
