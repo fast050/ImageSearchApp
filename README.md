@@ -11,6 +11,7 @@ The App Have Three Main Functions :
 - Glide
 - Navigation component
 - Paging3
+- view Binding
 
 # Rest Api Websites
 https://unsplash.com/documentation
