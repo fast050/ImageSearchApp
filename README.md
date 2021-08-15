@@ -1,5 +1,5 @@
 # ImageSearchApp
-Simple App That Seach Images on Unsplash Api.
+Simple App That Seach Images on Unsplash API.
 
 # Description 
 The App Have Three Main Functions :
