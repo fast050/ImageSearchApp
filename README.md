@@ -9,6 +9,8 @@ The App Have Three Main Functions :
 # Third Party 
 - Retrofit
 - Glide
+- Navigation component
+- Paging3
 
 # Rest Api Websites
 https://unsplash.com/documentation
