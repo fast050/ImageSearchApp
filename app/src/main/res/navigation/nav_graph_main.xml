@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph_main"
+    app:startDestination="@id/photosFragment2">
+    <fragment
+        android:id="@+id/photosFragment2"
+        android:name="com.example.imagesearchapp.ui.PhotosFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_photos">
+        <action
+            android:id="@+id/action_photosFragment2_to_photoDetailFragment2"
+            app:destination="@id/photoDetailFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/photoDetailFragment2"
+        android:name="com.example.imagesearchapp.ui.PhotoDetailFragment"
+        android:label="Photo Detail"
+        tools:layout="@layout/fragment_photo_detail">
+        <argument
+            android:name="userName"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="Description"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="urlPhotoUploadByUser"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="urlUserProfile"
+            app:argType="string"
+            app:nullable="true" />
+
+
+    </fragment>
+</navigation>

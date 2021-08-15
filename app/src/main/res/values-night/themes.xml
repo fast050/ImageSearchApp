@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ImageSearchApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primaryColorDark</item>
+        <item name="colorPrimaryVariant">@color/primaryDarkColorDark</item>
+        <item name="colorOnPrimary">@color/primaryTextColorDark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/secondaryColorDark</item>
+        <item name="colorSecondaryVariant">@color/secondaryDarkColorDark</item>
+        <item name="colorOnSecondary">@color/secondaryTextColorDark</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="ProgressBarStyle">
+        <item name="colorAccent">@color/retryColorDarkTheme</item>
+    </style>
+
+    <style name="UserNameStyle">
+        <item name="android:textAppearance">?attr/textAppearanceBody1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryTextColorDark</item>
+    </style>
+
+    <style name="textError_line1">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/primaryTextColorDark</item>
+    </style>
+
+    <style name="textError_line2">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#716E6E</item>
+    </style>
+
+    <style name="retry_button_text">
+        <item name="android:background">#0fff</item>
+        <item name="android:textColor">@color/primaryTextColorDark</item>
+    </style>
+
+</resources>
