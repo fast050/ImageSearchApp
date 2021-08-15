@@ -6,8 +6,7 @@ Simple App That Seach Images on Unsplash API.
 
 # How To Use
 To Use the app you need a developer account [Unsplash developer account](https://unsplash.com/documentation#creating-a-developer-account) then get your key:  
-Authorization: Client-ID YOUR_ACCESS_KEY
-
+in the UnsplashPhotoServices interface in the  @Headers( ...,"Authorization: your_key"
 
 # Third Party 
 - Retrofit
