@@ -13,7 +13,7 @@ interface UnsplashPhotoServices {
     // @Headers("Accept-Version: v1","Authorization: Client-ID YOUR_ACCESS_KEY")
     @Headers(
         "Accept-Version: v1",
-        "Authorization: Client-ID LEqrWuWMfXGKtHeck39hy5xTuVEdrT6ADA1wbDjyC30"
+        "Authorization: Client-ID your_key"
     )
     @GET("search/photos")
     suspend fun getPhotos(
