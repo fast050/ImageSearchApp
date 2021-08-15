@@ -24,5 +24,5 @@ https://unsplash.com/documentation
 
 # Screenshot 
 ![Alt Text](https://media.giphy.com/media/1sOA97LV1rAaL7JnWu/giphy.gif)
-![Alt Text](https://media.giphy.com/media/1sOA97LV1rAaL7JnWu/giphy.gif)
+![Alt Text](https://media.giphy.com/media/HCgswJ4XFwjALYYTT7/giphy.gif)
 
