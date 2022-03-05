@@ -9,12 +9,12 @@ To Use the app you need a developer account [Unsplash developer account](https:/
 in the project :
 paste your key in UnsplashPhotoServices interface @Headers( ...,"Authorization: your_key"
 
-# Third Parties 
+# Third Party 
 - Retrofit
 - Glide
 - Shimmer Effect
 
-# Jetpack libraries
+# Jetpack library
 - Navigation component
 - Paging3
 - view Binding
