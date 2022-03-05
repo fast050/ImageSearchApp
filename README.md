@@ -12,10 +12,12 @@ paste your key in UnsplashPhotoServices interface @Headers( ...,"Authorization: 
 # Third Party 
 - Retrofit
 - Glide
+- Shimmer Effect
+
+# Jetpack library
 - Navigation component
 - Paging3
 - view Binding
-- Shimmer Effect
 
 # Rest Api Websites
 https://unsplash.com/documentation
